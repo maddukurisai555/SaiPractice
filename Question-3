@@ -1,0 +1,28 @@
+Java Programming Question: Sorting an Array of Strings
+Question:
+
+Write a Java program that takes an array of strings, sorts the array in alphabetical order, and then prints the sorted array. For this task, you can use either the built-in sorting method or implement your own sorting algorithm.
+
+Explanation:
+
+In this question, you need to demonstrate your understanding of arrays and string manipulation in Java. The core tasks involve:
+
+Creating an Array: You will create an array of strings, which could represent names, cities, or any other text data.
+
+Sorting the Array: You can either use Java's built-in sorting mechanisms (like Arrays.sort()) or implement a simple sorting algorithm (like bubble sort or selection sort). This tests your understanding of sorting concepts.
+
+Printing the Sorted Array: After sorting the array, you need to output the results. This will show that you can work with arrays and manage outputs in Java.
+
+Example:
+
+Suppose you have the following array of strings:
+
+
+String[] names = {"John", "Alice", "Bob", "Charlie"};
+
+The expected output after sorting the array would be:
+[Alice, Bob, Charlie, John]
+
+This example clearly illustrates the task: sorting the names in alphabetical order. You could also test your program with variations, such as an empty array, an array with one element, or an array with names having mixed cases (e.g., "alice", "Alice") to see how your sorting handles such cases.
+
+Your program should be able to accommodate these scenarios while effectively demonstrating array handling and sorting in Java
