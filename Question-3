@@ -1,7 +1,7 @@
 Java Programming Question: Sorting an Array of Strings
 Question:
 
-Write a Java program that takes an array of strings, sorts the array in alphabetical order, and then prints the sorted array. For this task, you can use either the built-in sorting method or implement your own sorting algorithm.
+Write a Java program that takes an array of strings, sorts the array in alphabetical order, and then prints the sorted array. For this task, you can use either the built-in sorting method or implement your own sorting algorithm..
 
 Explanation:
 
